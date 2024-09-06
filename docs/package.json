@@ -20,7 +20,7 @@
     "link-check": "node ./scripts/reportBrokenLinks.js"
   },
   "dependencies": {
-    "@babel/core": "^7.23.0",
+    "@babel/core": "^7.23.2",
     "@babel/plugin-transform-object-assign": "^7.22.5",
     "@babel/runtime": "^7.23.1",
     "@babel/runtime-corejs2": "^7.23.1",
@@ -107,7 +107,7 @@
     "react-window": "^1.8.9",
     "recharts": "2.8.0",
     "rimraf": "^5.0.5",
-    "styled-components": "^6.0.0",
+    "styled-components": "^6.1.0",
     "stylis": "4.2.0",
     "stylis-plugin-rtl": "^2.1.1",
     "use-count-up": "^3.0.1",
